@@ -23,5 +23,4 @@ O código é totalmente open-source e pode ser modificado e adaptado conforme ne
 ## Contribuição
 Contribuições são bem-vindas! Sinta-se à vontade para abrir issues, sugestões ou melhorias por meio de pull requests.
 
-## Licença
-Este projeto está licenciado sob a [Licença MIT](link-da-licenca).
+
